@@ -1,6 +1,3 @@
-<h1 align="center">Danyil Niemtsov</h1> 
-<h3 align="center">Full-stack Webdeveloper from Ukraine..</h3>
-
 
 <details open>
   <summary> more about me</summary>
