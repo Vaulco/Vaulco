@@ -1,3 +1,3 @@
-### “A man who lies to himself, and believes his own lies, becomes unable to recognize truth, either in himself or in anyone else, and he ends up losing respect for himself and for others. When he has no respect for anyone, he can no longer love, and in him, he yields to his impulses, indulges in the lowest form of pleasure, and behaves in the end like an animal in satisfying his vices. And it all comes from lying — to others and to yourself.”
-
-– Fyodor Dostoevsky, from his book “The Brothers Karamazov”
+- <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
+- <img src="https://latex.codecogs.com/gif.latex?s=\text { sensor reading }  " /> 
+- <img src="https://latex.codecogs.com/gif.latex?P(s | O_t )=\text { Probability of a sensor reading value when sleep onset is observed at a time bin } t " />
