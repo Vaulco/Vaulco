@@ -1,3 +1,3 @@
 ``` math
-\text{console.log("...");}
+\text{Thank you for stopping by, my friend}
 ```
